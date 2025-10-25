@@ -20,7 +20,7 @@ EMAIL_SETTINGS = {
     "smtp_port": 587,
     "sender_email": "aasfiya.p246@gmail.com",
     "receiver_email": "ssmc23bcc019.ssmrv@rvei.edu.in",
-    "password": "hylixwptuupdosgo",
+    "password": "",
 }
 
 ALERT_THRESHOLD = {
@@ -39,3 +39,4 @@ WHITELISTED_PROTOCOLS = {
     6: "TCP",
     17: "UDP",
 }
+
